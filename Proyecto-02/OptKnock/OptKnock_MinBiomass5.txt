@@ -1,0 +1,126 @@
+#############################
+# minbiomass = /3/;
+# allowknock = 5;
+THreonine  =    20.423029
+Biomass    =     9.453850
+Model Status = 8
+CPU for MIP:2.0E+1
+
+
+y(AACPS1    )= zero
+y(ABTA      )= zero
+y(FTHFD     )= zero
+y(PSP_L     )= zero
+y(RNTR1c    )= zero
+******************************************
+#############################
+# minbiomass = /4/;
+# allowknock = 5;
+THreonine  =    41.992228
+Biomass    =     9.185812
+Model Status = 8
+CPU for MIP:2.3E+1
+
+
+y(F6PA_f    )= zero
+y(NTP5      )= zero
+y(PPA       )= zero
+y(PPPGO3    )= zero
+******************************************
+#############################
+# minbiomass = /5/;
+# allowknock = 5;
+
+THreonine  =    36.177105
+Biomass    =     9.277016
+Model Status = 8
+CPU for MIP:1.8E+1
+
+
+y(EDTXS4    )= zero
+y(GART      )= zero
+y(GLYCK2    )= zero
+y(PSERT     )= zero
+#############################
+# minbiomass = /6/;
+# allowknock = 5;
+THreonine  =    75.917969
+Biomass    =     8.654472
+Model Status = 8
+CPU for MIP:1.9E+1
+
+
+y(LDH_D_f   )= zero
+y(TRE6PP    )= zero
+y(TRE6PS    )= zero
+y(TREH      )= zero
+******************************************
+#############################
+# minbiomass = /7/;
+# allowknock = 5;
+THreonine  =   174.709540
+Biomass    =     7.000000
+Model Status = 1
+CPU for MIP:1.3E+1
+
+
+y(PGCD      )= zero
+y(PSERT     )= zero
+y(PSP_L     )= zero
+y(PUNP1_f   )= zero
+******************************************
+
+THreonine  =    20.423029
+Biomass    =     9.453850
+Model Status = 8
+CPU for MIP:1.9E+1
+
+
+y(AACPS3    )= zero
+y(ACALD_f   )= zero
+y(PDX5POi   )= zero
+y(PGCD      )= zero
+y(PSERT     )= zero
+y(PSP_L     )= zero
+******************************************
+#############################
+# minbiomass = /8/;
+# allowknock = 5;
+THreonine  =   117.285926
+Biomass    =     8.000000
+Model Status = 1
+CPU for MIP:1.7E+1
+
+
+y(EDD       )= zero
+y(NDPK5_f   )= zero
+y(PPM2_f    )= zero
+y(PPS       )= zero
+******************************************
+
+THreonine  =   117.285395
+Biomass    =     8.000000
+Model Status = 8
+CPU for MIP:2.1E+1
+
+
+y(GLYOX     )= zero
+y(LGTHL     )= zero
+y(TRE6PP    )= zero
+y(TRE6PS    )= zero
+y(TREH      )= zero
+******************************************
+#############################
+# minbiomass = /9/;
+# allowknock = 5;
+THreonine  =    35.753257
+Biomass    =     9.282235
+Model Status = 8
+CPU for MIP:2.2E+1
+
+
+y(AACPS4    )= zero
+y(EDA       )= zero
+y(MALS      )= zero
+y(OPHHX3    )= zero
+******************************************
