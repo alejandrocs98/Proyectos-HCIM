@@ -1,0 +1,107 @@
+23doguln_c[c]	2,3-Dioxo-L-gulonate
+25dkglcn_c[c]	2,5-diketo-D-gluconate
+2dhglcn_c[c]	2-Dehydro-D-gluconate
+2dhguln_c[c]	2-Dehydro-L-gulonate
+2pglyc_c[c]	2-Phosphoglycolate
+3dhguln_c[c]	3-Dehydro-L-gulonate
+3sala_c[c]	3-Sulfino-L-alanine
+4ahmmp_c[c]	4-Amino-5-hydroxymethyl-2-methylpyrimidine
+4mhetz_c[c]	4-Methyl-5-(2-hydroxyethyl)-thiazole
+5prdmbz_c[c]	N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole
+8aonn_c[c]	8-Amino-7-oxononanoate
+Nmtrp_c[c]	N-Methyltryptophan
+ag_c[c]	Silver
+alatrna_c[c]	L-Alanyl-tRNA(Ala)
+alpp_p[p]	Applipoprotein
+amob_c[c]	S-Adenosyl-4-methylthio-2-oxobutanoate
+ap4a_c[c]	P1,P4-Bis(5'-adenosyl) tetraphosphate
+ap5a_c[c]	P1,P5-Bis(5'-adenosyl) pentaphosphate
+apoACP_c[c]	Apoprotein [acyl carrier protein]
+aragund_c[c]	O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
+arbt6p_c[c]	Arbutin 6-phosphate
+argtrna_c[c]	L-Arginyl-tRNA(Arg)
+asntrna_c[c]	L-Asparaginyl-tRNA(Asn)
+aso3_c[c]	Arsenite
+aso4_c[c]	Arsenate
+asptrna_c[c]	L-Aspartyl-tRNA(Asp)
+bbtcoa_c[c]	Gamma-butyrobetainyl-CoA
+betald_c[c]	Betaine aldehyde
+btn_c[c]	Biotin
+btnso_c[c]	D-biotin d-sulfoxide
+cenchddd_c[c]	Cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol
+cinnm_c[c]	Trans-Cinnamate
+cu_c[c]	Cu+
+cyan_c[c]	Hydrogen cyanide
+cystrna_c[c]	L-Cysteinyl-tRNA(Cys)
+dann_c[c]	7,8-Diaminononanoate
+dmbzid_c[c]	5,6-Dimethylbenzimidazole
+dms_c[c]	Dimethyl sulfide
+dmso_c[c]	Dimethyl sulfoxide
+dsbaox_p[p]	Periplasmic protein disulfide isomerase I (oxidized)
+dsbard_p[p]	Periplasmic protein disulfide isomerase I (reduced)
+dsbcox_p[p]	Protein disulfide isomerase II (oxidized)
+dsbcrd_p[p]	Protein disulfide isomerase II (reduced)
+dsbdox_c[c]	Fused thiol:disulfide interchange protein (oxidized)
+dsbdrd_c[c]	Fused thiol:disulfide interchange protein (reduced)
+dsbgox_p[p]	Periplasmic disulfide isomerase/thiol-disulphide oxidase (oxidized)
+dsbgrd_p[p]	Periplasmic disulfide isomerase/thiol-disulphide oxidase (reduced)
+dtbt_c[c]	Dethiobiotin
+dxyl_c[c]	1-deoxy-D-xylulose
+fmettrna_c[c]	N-Formylmethionyl-tRNA
+garagund_c[c]	Glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
+gbbtn_c[c]	Gamma-butyrobetaine
+gfgaragund_c[c]	Galactofuranosyl-glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
+glntrna_c[c]	L-Glutaminyl-tRNA(Gln)
+glytrna_c[c]	Glycyl-tRNA(Gly)
+gp4g_c[c]	P1,P4-Bis(5'-guanosyl) tetraphosphate
+hg2_c[c]	Mercury  charged 2  Hg
+histrna_c[c]	L-Histidyl-tRNA(His)
+hqn_c[c]	Hydroquinone
+iletrna_c[c]	L-Isoleucyl-tRNA(Ile)
+leutrna_c[c]	L-Leucyl-tRNA(Leu)
+lpp_p[p]	Lipoprotein
+lystrna_c[c]	L-Lysine-tRNA (Lys)
+mercppyr_c[c]	Mercaptopyruvate
+mettrna_c[c]	L-Methionyl-tRNA (Met)
+mi1p__D_c[c]	1D-myo-Inositol 1-phosphate
+o16a4colipa_p[p]	(O16 antigen)x4 core oligosaccharide lipid A
+o16aund_c[c]	O16 antigen undecaprenyl diphosphate
+phetrna_c[c]	L-Phenylalanyl-tRNA(Phe)
+pmcoa_c[c]	Pimeloyl-CoA
+protrna_c[c]	L-Prolyl-tRNA(Pro)
+ragund_c[c]	Rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
+rdmbzi_c[c]	N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole
+s_c[c]	Sulfur
+sarcs_c[c]	Sarcosine C3H7NO2
+sectrna_c[c]	L-Selenocysteinyl-tRNA(Sec)
+seln_c[c]	Selenide
+selnp_c[c]	Selenophosphate
+sertrna_c[c]	L-Seryl-tRNA(Ser)
+sertrna_sec_c[c]	L-Seryl-tRNA(Sec)
+tcynt_c[c]	Thiocyanate
+thrtrna_c[c]	L-Threonyl-tRNA(Thr)
+tma_c[c]	Trimethylamine
+tmao_c[c]	Trimethylamine N-oxide
+trnaala_c[c]	TRNA(Ala)
+trnaarg_c[c]	TRNA(Arg)
+trnaasn_c[c]	TRNA Asn  C10H17O10PR2
+trnaasp_c[c]	TRNA(Asp)
+trnacys_c[c]	TRNA(Cys)
+trnagln_c[c]	TRNA(Gln)
+trnagly_c[c]	TRNA(Gly)
+trnahis_c[c]	TRNA(His)
+trnaile_c[c]	TRNA(Ile)
+trnaleu_c[c]	TRNA(Leu)
+trnalys_c[c]	TRNA(Lys)
+trnamet_c[c]	TRNA(Met)
+trnaphe_c[c]	TRNA(Phe)
+trnapro_c[c]	TRNA(Pro)
+trnasecys_c[c]	TRNA(SeCys)
+trnaser_c[c]	TRNA(Ser)
+trnathr_c[c]	TRNA(Thr)
+trnatrp_c[c]	TRNA(Trp)
+trnatyr_c[c]	TRNA(Tyr)
+trnaval_c[c]	TRNA(Val)
+trptrna_c[c]	L-Tryptophanyl-tRNA(Trp)
+tyrtrna_c[c]	L-Tyrosyl-tRNA(Tyr)
+valtrna_c[c]	L-Valyl-tRNA(Val)
